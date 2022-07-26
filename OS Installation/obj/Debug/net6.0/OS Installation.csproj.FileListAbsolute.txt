@@ -1,0 +1,792 @@
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\appsettings.Development.json
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\appsettings.json
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.exe
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.deps.json
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.runtimeconfig.json
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.pdb
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.AssemblyReference.cache
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.AssemblyInfoInputs.cache
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.AssemblyInfo.cs
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.CoreCompileInputs.cache
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.MvcApplicationPartsAssemblyInfo.cs
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.MvcApplicationPartsAssemblyInfo.cache
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\staticwebassets.build.json
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\staticwebassets.development.json
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\scopedcss\bundle\OS Installation.styles.css
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.CopyComplete
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.dll
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\refint\OS Installation.dll
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.pdb
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.genruntimeconfig.cache
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\ref\OS Installation.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Humanizer.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\MessagePack.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Common.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.RazorAssemblyInfo.cache
+D:\Документы\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.RazorAssemblyInfo.cs
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\appsettings.json
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.exe
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.deps.json
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.runtimeconfig.json
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.pdb
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\MessagePack.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.AssemblyReference.cache
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.AssemblyInfoInputs.cache
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.AssemblyInfo.cs
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.CoreCompileInputs.cache
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.RazorAssemblyInfo.cache
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.RazorAssemblyInfo.cs
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\scopedcss\bundle\OS Installation.styles.css
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.CopyComplete
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\refint\OS Installation.dll
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.pdb
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.genruntimeconfig.cache
+C:\Users\taras\OneDrive\Documents\Bandicam\OS Installation\OS Installation\OS Installation\obj\Debug\net6.0\ref\OS Installation.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\appsettings.Development.json
+D:\OS Installation\OS Installation\bin\Debug\net6.0\appsettings.json
+D:\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.exe
+D:\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.deps.json
+D:\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.runtimeconfig.json
+D:\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\OS Installation.pdb
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Humanizer.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\MessagePack.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Common.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OS Installation\OS Installation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.AssemblyReference.cache
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.GeneratedMSBuildEditorConfig.editorconfig
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.AssemblyInfoInputs.cache
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.AssemblyInfo.cs
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.CoreCompileInputs.cache
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.MvcApplicationPartsAssemblyInfo.cs
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.MvcApplicationPartsAssemblyInfo.cache
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.RazorAssemblyInfo.cache
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.RazorAssemblyInfo.cs
+D:\OS Installation\OS Installation\obj\Debug\net6.0\staticwebassets.build.json
+D:\OS Installation\OS Installation\obj\Debug\net6.0\staticwebassets.development.json
+D:\OS Installation\OS Installation\obj\Debug\net6.0\scopedcss\bundle\OS Installation.styles.css
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.csproj.CopyComplete
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.dll
+D:\OS Installation\OS Installation\obj\Debug\net6.0\refint\OS Installation.dll
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.pdb
+D:\OS Installation\OS Installation\obj\Debug\net6.0\OS Installation.genruntimeconfig.cache
+D:\OS Installation\OS Installation\obj\Debug\net6.0\ref\OS Installation.dll
